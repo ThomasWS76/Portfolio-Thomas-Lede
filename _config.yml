@@ -1,0 +1,11 @@
+# _config.yml
+
+# Site settings
+title: Portfolio Thomas Lédé
+description: Welcome to my Data Analytics Portfolio! Explore my projects showcasing a blend of quantitative skills, data analysis, and storytelling. From financial insights to interactive visualizations, discover how I turn raw data into actionable intelligence.
+url: "https://github.com/ThomasWS76/Portfolio-Thomas-Lede" # Replace with your GitHub Pages URL
+baseurl: "" # Leave it empty for GitHub Pages
+
+# Build settings
+markdown: kramdown
+theme: minima # You can change the theme if needed
